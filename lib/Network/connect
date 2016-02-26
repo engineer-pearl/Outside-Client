@@ -1,0 +1,7 @@
+//This code allows you to synch up with the client and chooses the protocal
+//gets called when connect request recieved
+{
+//report that connection was successful
+//request connection protocal
+//adjust accordingly //{yeah I have no idea how networking works}
+}
