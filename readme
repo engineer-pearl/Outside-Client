@@ -1,0 +1,12 @@
+The Outside Client is how you access the Outside Network. There are plans to add web interfaces so that users can use their browsers, and that's one more reason why formatting will be in HTML, however in the mean time, users are encouraged to use the official one or make their own.
+
+Upcoming tasks:
+- Figure out how to add the QT library to the database to make it as avalible as everythig else
+- Figure out how to add networking
+- Figure out how to import an HTML formatting database
+- Get a disqus in the wiki so that users can communicate with me in more ways than just starting issues
+- Support for both Javascript and perl mods
+
+I am also reachable on tumblr. (engineer-pearl0)
+
+QT WILL BE UP BEFORE FIRST RELEASE.
